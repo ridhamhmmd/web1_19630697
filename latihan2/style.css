@@ -1,0 +1,25 @@
+h1{
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kotak1 {
+    /*disini hiasan untuk class kotak*/
+    background: darkcyan;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: #0288d1;
+    float: left;
+}
+
+#kotak {
+    padding: 50px;
+    width: 100px;
+    color: #666666;
+    height: 50px;
+    margin: 10px;
+    background: #f8bbd0;
+    float: left;
+}
